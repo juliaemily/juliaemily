@@ -2,7 +2,7 @@
 
 - 🤓 Universitária de Gestão em T.I
 - 🔭 Hoje trabalho como QA Tester Intern
-- 🌱 Estudando Javascript e Phyton
+- 🌱 Estudando Javascript e Python
 - 📫 Contate-me no email: juliaemily614@gmail.com
 
 <div style="display: inline_block"><br>
