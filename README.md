@@ -1,7 +1,7 @@
 ### Hello, world! Eu sou a Júlia 👋
 
 - 🤓 Universitária de Gestão em T.I
-- 🔭 Hoje trabalho como QA Tester Intern
+- 🔭 Hoje trabalho como QA Tester Jr
 - 🌱 Estudando Javascript e Python
 - 📫 Contate-me no email: juliaemily614@gmail.com
 
